@@ -7,7 +7,6 @@ public class aaah {
 		
 		String john = in.nextLine();
 		String doctor = in.nextLine();
-		
 		// 1ère option : compter le nombre de a
 		
 		/*int johnNbA = 0;
